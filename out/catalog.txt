@@ -1,0 +1,7 @@
+.X01234562 30.08 name_as dame_doc П.98                                
+                CAT.E3012702.P098.KODAS.NAMECAT2(NAMEPROG2)
+.X01234564 30.08 name_as dame_doc П.99
+                CAT.E3012701.P099.XXXX.NAMECAT(NAMEPROG1)
+.X01234567 30.08 name_as dame_doc ПРОВЕРКА                                
+                CAT.E3013003.PTST.NAMECAT3(NAME_PROG)
+                SDF.E3013003.PTST.NAMECAT4(NAME_PROG)
